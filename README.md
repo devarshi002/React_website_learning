@@ -51,7 +51,7 @@ This will start the development server, and you can view the application in your
 - React: Frontend library for building user interfaces.
 - Framer Motion: Animation library for creating fluid animations.
 - GSAP: Animation library for creating advanced animations.
-- HTML, CSS, JavaScript: Frontend technologies for building web applications.
+- HTML, CSS(Tailwind), JavaScript: Frontend technologies for building web applications.
 
 ## Contributing
 
